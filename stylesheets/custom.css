@@ -2,8 +2,8 @@
 
 .heading {
   background-image: url(../img/oracle.jpg);
-  background-repeat: no-repeat;
-  height: 400px;
+  background-repeat: repeat;
+  height: 300px;
   width: 100%;
   background-position: center;
   background-color: blue;
