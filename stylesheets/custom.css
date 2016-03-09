@@ -17,8 +17,8 @@
   padding-top: 194px;
 }
 body {
-  background-image: url(../img/metal.jpg);
-  background-repeat: no-repeat;
+  background-image: url(../img/wood.jpg);
+  background-repeat: repeat;
   background-position: center 400px;
   background-color: #999;
 }
