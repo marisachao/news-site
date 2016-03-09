@@ -29,8 +29,12 @@ img {
     border-top: 1px solid #ccc;
 }
 h2 {
-  color: #e4ddd9;
+  color: black;
 }
 h3 {
+  color: black;
+}
+
+a.hover {
   color: #e4ddd9;
 }
