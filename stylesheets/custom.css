@@ -22,7 +22,7 @@ body {
 img {
   width: 100%;
 }
-.box grid_4 a.read-more {
+.top-content .box a.read-more {
     display: block;
     margin-top: 5px;
     padding-top: 5px;
