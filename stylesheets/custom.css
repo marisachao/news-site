@@ -1,8 +1,8 @@
 /*your custom CSS here*/
 
 .heading {
-  background-image: url(../img/oracle.jpg);
-  background-repeat: repeat;
+  background-image: url(../img/wood-heading.jpg);
+  background-repeat: no-repeat;
   height: 300px;
   width: 100%;
   background-position: center;
