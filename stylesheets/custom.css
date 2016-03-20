@@ -12,9 +12,10 @@
 .heading h1 {
   text-align: center;
   color: white; 
-  font-size: 35px;
+  font-size: 45px;
   width: 100%;
   padding-top: 60px;
+  font-family: Verdana, Arial, sans-serif;
 }
 body {
   background-color: #acb2c6;
@@ -30,11 +31,19 @@ img {
 }
 h2 {
   color: black;
+  font-size: 35px;
+  font-family: Georgia, Times, serif;
 }
 h3 {
   color: black;
+  font-size: 30px;
+  font-family: Georgia, Times, serif;
 }
 
 .box h2 {
-  
+  color: #696969;
+}
+
+.box h3 {
+  color: #696969;
 }
