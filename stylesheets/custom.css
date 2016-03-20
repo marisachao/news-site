@@ -33,6 +33,7 @@ h2 {
   color: black;
   font-size: 25px;
   font-family: Georgia, Times, serif;
+  border-style: solid;
 }
 h3 {
   color: black;
@@ -42,6 +43,7 @@ h3 {
 
 .box h2 {
   color: #2f4f4f;
+  border-style: none;
 }
 
 .box h3 {
