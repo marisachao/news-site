@@ -47,3 +47,39 @@ h3 {
 .box h3 {
   color: #696969;
 }
+
+a:link {
+  text-decoration: none;
+  color: #696969;
+}
+
+a:visited {
+  color: #d3d3d3;
+}
+
+a:hover {
+  color: #2f4f4f;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #708090;
+}
+
+a.read-more:link {
+  text-decoration: underline;
+  color: #696969;
+}
+
+a.read-more:visited {
+  color: #d3d3d3;
+}
+
+a.read-more:hover {
+  color: #2f4f4f;
+  text-decoration: none;
+}
+
+a.read-more:active {
+  color: #708090;
+}
