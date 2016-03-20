@@ -31,21 +31,21 @@ img {
 }
 h2 {
   color: black;
-  font-size: 35px;
+  font-size: 25px;
   font-family: Georgia, Times, serif;
 }
 h3 {
   color: black;
-  font-size: 30px;
+  font-size: 15px;
   font-family: Georgia, Times, serif;
 }
 
 .box h2 {
-  color: #696969;
+  color: #2f4f4f;
 }
 
 .box h3 {
-  color: #696969;
+  color: #2f4f4f;
 }
 
 a:link {
