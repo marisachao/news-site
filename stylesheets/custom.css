@@ -10,6 +10,7 @@
   background-color: #bfc8e3;
   border-bottom: 5px solid white;
 }
+
 .heading h1 {
   text-align: center;
   color: white; 
@@ -20,7 +21,6 @@
 }
 
 .footer {
-  position: fixed;
   background-color: #bfc8e3;
   width: 100%;
   bottom: 0px;
@@ -37,12 +37,14 @@ body {
 img {
   width: 100%;
 }
+
 .top-content .box a.read-more {
     display: block;
     margin-top: 5px;
     padding-top: 5px;
     border-top: 1px solid #ccc;
 }
+
 h2 {
   color: black;
   font-size: 25px;
