@@ -18,6 +18,16 @@
   padding-top: 60px;
   font-family: Verdana, Arial, sans-serif;
 }
+
+footer {
+  background-color: #bfc8e3;
+  position: fixed;
+  width: 100%;
+  bottom: 0px;
+  left: 0px;
+  padding: 0 20px;
+  border-top: 2px solid white;
+}
 body {
   background-color: #acb2c6;
 }
