@@ -31,6 +31,7 @@
 
 body {
   background-color: #acb2c6;
+  margin-bottom: 30px;
 }
 
 img {
@@ -47,6 +48,7 @@ h2 {
   font-size: 25px;
   font-family: Georgia, Times, serif;
 }
+
 h3 {
   color: black;
   font-size: 20px;
