@@ -23,6 +23,7 @@
 .footer {
   position: absolute;
   bottom: 0px;
+  height: 60px;
   width: 100%;
   padding: 0px 20px;
   border-top: 2px solid white;
